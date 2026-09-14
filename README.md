@@ -19,3 +19,4 @@ Built on top of:
 - Fastman92 Limit Adjuster
 - Open Limit Adjuster
 - ModelVariations
+- EarShot Mod
