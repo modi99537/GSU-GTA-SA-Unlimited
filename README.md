@@ -11,7 +11,7 @@ See the [Releases](../../releases) page.
 **Created by Moayed (Master3690)**
 
 - YouTube: [@Master3690OG](https://youtube.com/@Master3690OG)
-- GTAForums: [GSU topic](https://gtaforums.com/topic/1007317-sa-gsu-gta-sa-unlimited-add-custom-weaponsvehiclespeds/)
+- GTAForums: [https://gtaforums.com/topic/1007317-sa-gsu-gta-sa-unlimited-add-custom-weaponsvehiclespeds/]
 
 Built on top of:
 - SA Essentials Pack
